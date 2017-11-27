@@ -2,7 +2,7 @@
 if(isset($_REQUEST['submit']))
 {
     //echo "got into statement";
-    $con=mysqli_connect("localhost","charliez_charlie","a1232123","charliez_hosting");
+    $con=mysqli_connect("localhost","user","pass","dbname");
     
     $id=$_GET['id'];
     
