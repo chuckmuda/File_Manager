@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("localhost","charliez_charlie","a1232123","charliez_hosting");
+$con=mysqli_connect("localhost","user","pass","db");
 
 $id=$_GET['id'];
 
