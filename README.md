@@ -34,4 +34,4 @@ form_upload.php:
    
 update_submit.php:
 
-  This is a php script that will trigger when the Submit button is selected on both edit_data.php and form_upload.php.
+  This is a php script that will trigger when the Submit button is selected on both edit_data.php or form_upload.php.
