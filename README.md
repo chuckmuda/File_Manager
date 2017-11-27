@@ -1,8 +1,6 @@
 # File_Manager
 File hosting application for managing files in a database.
-In order for this application to function properly, correct configs need to be added to connect.php, download.php, zip_download.php and delete_data.php. A folder must be placed in the working directly for storing files. (for this example I used 'filehosting' as my folder's name).  Sql file must be made with the correct corresponding column names, see attached sql file for example.
-
-Bootstrap assets and applicable CSS pages may not be uploaded here yet.
+In order for this application to function properly, correct configs need to be added to connect.php, download.php, zip_download.php and delete_data.php. A folder must be placed in the working directly for storing files. (for this example I used 'filehosting' as my folder's name).  Sql file must be made with the correct corresponding column names, see attached sql file for example. Bootstrap assets from binarycart.com.
 
 Page Operations:
 
