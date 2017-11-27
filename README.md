@@ -6,7 +6,7 @@ Page Operations:
 
 connect.php:
 
-  Database configs are empty for public viewing. Establishes the PDO connection to the hosted database.
+  Establishes the PDO connection to the hosted database.
 
 view_data.php:
 
